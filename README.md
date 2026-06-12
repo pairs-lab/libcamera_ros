@@ -22,7 +22,7 @@ Check the configuration file for available control parameters: [config.yaml](htt
 
 The `libcamera` library is required to be installed and in the present path (must be findable by CMake). Installation instructions:
 
-1. Enable installation from MRS PPA [README.md](https://github.com/ctu-mrs/pairs_uav_system?tab=readme-ov-file#native-installation). The stable PPA version is recommended.
+1. Enable installation from PAIRS PPA [README.md](https://github.com/pairs-lab/pairs_uav_system?tab=readme-ov-file#native-installation). The stable PPA version is recommended.
 2. install libcamera package `sudo apt install ros-noetic-libcamera` 
 
 Deb packages are available for arm64 and amd64 architectures. The driver is supposed to be used on arm64 (Raspberry Pi5). 
