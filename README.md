@@ -1,6 +1,6 @@
 # Libcamera ROS driver
 
-https://github.com/ctu-mrs/libcamera_ros
+https://github.com/pairs-lab/libcamera_ros
 
 ## Description
 
@@ -16,7 +16,7 @@ Ancillary functions such as encoding images or displaying them are beyond the pu
 
 This package does the wrapping for ROS.
 
-Check the configuration file for available control parameters: [config.yaml](https://github.com/ctu-mrs/libcamera_ros/blob/main/config/param.yaml).
+Check the configuration file for available control parameters: [config.yaml](https://github.com/pairs-lab/libcamera_ros/blob/main/config/param.yaml).
 
 ## Prequisites
 
