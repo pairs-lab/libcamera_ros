@@ -1,0 +1,9 @@
+
+# build artifacts (bloom / catkin / cmake) — never commit
+.obj-*/
+obj-*/
+debian/
+build/
+devel/
+install/
+*.o
